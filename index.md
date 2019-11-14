@@ -1,12 +1,14 @@
-## About Me
-I am an Application Engineering working at the Computer Hardware industry and I am looking for opportunities to transition my career into the field of Data Science/Data Analytics. 
-<br/>
-I completed a 6-month intensive Data Science Bootcamp with Thinkful and I am building up my Data Science skills moving forward. 
-<br/>
-I am also a gamer and I main Support and Tank in most games. 
-<br/>
-I am a cat person and I have the cutest cat in the world. 
+<p align="center">
+  ## About Me
+  I am an Application Engineering working at the Computer Hardware industry and I am looking for opportunities to transition my career      into the field of Data Science/Data Analytics. 
+  <br/>
+  I completed a 6-month intensive Data Science Bootcamp with Thinkful and I am building up my Data Science skills moving forward. 
+  <br/>
+  I am also a gamer and I main Support and Tank in most games. 
+  <br/>
+  I am a cat person and I have the cutest cat in the world. 
 
+</p>
 ---
 
 ## Feature Projects

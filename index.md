@@ -1,10 +1,12 @@
 <p style="text-align: center;font-size:200%;font-weight:bold;">About Me</p>
 
+<p align="center">
 I am an Application Engineering working at the Computer Hardware industry and I am looking for opportunities to transition my career      into the field of Data Science/Data Analytics. 
 <br/><br/>
 I completed a 6-month intensive Data Science Bootcamp with Thinkful and I am building up my Data Science skills moving forward. 
 <br/><br/>
-I am also a gamer and I main Support and Tank in most games. :smiley_cat: I am a cat person :smiley_cat:
+I am also a gamer and I main Support and Tank in most games.
+</p>
 
 ---
 

@@ -1,123 +1,18 @@
+## About Me
+I am an Application Engineering working at the Computer Hardware industry and I am looking for opportunities to transition my career into the field of Data Science/Data Analytics. 
+<br/>
+I completed a 6-month intensive Data Science Bootcamp with Thinkful and I am building up my Data Science skills moving forward. 
+<br/>
+I am also a gamer and I main Support and Tank in most games. 
+<br/>
+I am a cat person and I have the cutest cat in the world. 
+
 ---
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Feature Projects
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### [Detect Pneumonia using Chest X-Ray Images](https://github.com/jatlukze/Thinkful_Projects/blob/master/Final/Thinkful_Final_Capstone_Project_Detect_Pneumonia_using_Chest_X_Ray_Images.ipynb)
+According to World Health Organization (WHO), 2 million children under 5 years old killed by pneumonia each year, and WHO reported that 95% of childhood clinical pneumonia cases occurred in developing countries (Kermany, 2018). X-ray images is one of the key elements for diagnosing pneumonia, since X-ray images are able to obtained as standard care procedure, and help differentiate between different types of pneumonia. However, specialist for interpreting the images are not always available, especially in low-resource areas. Therefore, we can utilize neural network technique to act as the primary screening to detect pneumonia using chest X-ray images.
+<br/>
+This data set contains more than 5 thousands chest X-ray images. However, data augmentation is needed to increase our sample size and create a unbiased traing data set. A Convolutional Neural Network model is built to classified X-ray images, and this model achieved 86.86% validation accuracy. 
+<img src="images/pneumonia.png?raw=true"/>

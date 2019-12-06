@@ -34,3 +34,6 @@ This project utilized more than 4 million game data and built a regression model
 ### [Detect Sarcasm in News Headlines](https://github.com/jatlukze/Thinkful_Projects/blob/master/Unit3/Unsupervised%20Learning/Unsupervised_Learning_Capstone_Sarcasm_Detection.ipynb)
 This project processed and clean 20k+ News headlines with Python modules Tldextract, Spacy, and NLTK. Also, TF-IDF is used to vectorized News headlines. Classification models (Random Forst and MLP) were built and compared against clustering algorithm (K-Mean). In conclusion, MLP achieved 75.5% accuracy and outperformed other algorithms. 
 <img src="images/bazinga.png?raw=true"/>
+
+### [Exploring College Graduates Salaries](https://nbviewer.jupyter.org/github/jatlukze/College_Salaries_Exploratory_Data_Analysis-/blob/4df9bedab1a93866b78ae9553cd9ad092d1afaa6/College%20Salaries%20EDA.ipynb)
+This is a practice Explortary Data Analysis for college graduates salaries. I mainly used Plotly for this analysis, because I did not have much experience using Plotly while I was studying at Thinkful. In this analysis, I produced bar chart, stacked bar chart, box plots, line plot, and pie chart using Plotly. 

@@ -37,3 +37,4 @@ This project processed and clean 20k+ News headlines with Python modules Tldextr
 
 ### [Exploring College Graduates Salaries](https://nbviewer.jupyter.org/github/jatlukze/College_Salaries_Exploratory_Data_Analysis-/blob/4df9bedab1a93866b78ae9553cd9ad092d1afaa6/College%20Salaries%20EDA.ipynb)
 This is a practice Explortary Data Analysis for college graduates salaries. I mainly used Plotly for this analysis, because I did not have much experience using Plotly while I was studying at Thinkful. In this analysis, I produced bar chart, stacked bar chart, box plots, line plot, and pie chart using Plotly. 
+<img src="images/College_EDA.png?raw=true"/>
